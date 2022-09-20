@@ -1,0 +1,179 @@
+.header-container{
+ width: 1000px;
+ height: 300px;
+ margin: auto;
+ border: solid 2px green;
+ display: flex;
+ justify-content: space-around;
+
+}
+.side1{
+    width: 100px;
+    height: 100px;
+}
+.image{
+    display: flex;
+}
+.about{
+    display: flex; 
+    
+}
+.side2{
+    margin-left: 25%; 
+    margin-bottom: 200px;
+}
+    .service-content{
+        display: flex;
+        justify-content: space-around;
+        flex-wrap: wrap;
+         border: solid 2px red;
+    }
+    .servics-servics{
+        width: 33.333%;
+        height: 75px;
+        border: solid 2px green;
+        
+    }
+    .head{
+    text-decoration: none;
+    font-size: 1rem;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: center;
+    
+    }
+    .content{
+        display: flex;
+        justify-content:space-evenly;
+    
+     }
+    .counter-box{
+        text-align: center;
+        
+    }
+    .portfolio-content{
+        display: flex;
+        justify-content: space-evenly;
+        flex-wrap: wrap;
+        border: solid 2px red;
+    }
+    .colunm-services{
+        width: 33.333;
+        height:85px;
+        border: solid 2px indianred;
+        
+    }
+    .portfolio{
+        text-align: center;
+    }
+    .auto-content{
+        text-align: center;
+        border: solid 2px blue;
+        
+    }
+    .content{
+        text-align: center;
+        border: solid 3px green;
+    }
+    .blog-content{
+        display: flex;
+        justify-content: space-between;
+        height: 250px;
+        border: solid 3px rebeccapurple;
+
+    }
+    .project{
+        width: 1000px;
+        height: 250px;
+        margin-top: 22px;
+        margin-bottom: 25px;
+        border: solid 3px blue;
+        display: flex;
+        flex-wrap: wrap;
+
+        
+    }
+    .servics-servics-1{
+        padding: 5px;
+        border: 2px solid;
+        width: 33.33%;
+    }
+    .servics-servics-2{
+        padding: 5px;
+        border: 2px solid;
+        width: 33.33%;
+    } 
+    .servics-servics-3{
+        padding: 5px;
+        border: 2px solid;
+        width: 33.33%;
+    }
+    .servics-servics-4{
+        padding: 5px;
+        border: 2px solid;
+        width: 33.33%;
+    }
+    .servics-servics-5{
+        padding: 5px;
+        border: 2px solid;
+        width: 33.33%;
+        height: 20px;
+    }
+    .servics-servics-6{
+        padding: 5px;
+        border: 2px solid;
+        width: 33.33%;
+    }
+    .colunm-services-A{
+        padding: 5px;
+        border: 2px solid;
+        width: 33.33%;
+        height: 30px;
+
+    }
+    .colunm-services-B{
+        padding: 5px;
+        border: 2px solid;
+        width: 33.33%;
+        
+    }
+    .colunm-services-C{
+        padding: 5px;
+        border: 2px solid;
+        width: 33.33%;
+    }
+    .colunm-services-D{
+        padding: 5px;
+        border: 2px solid;
+        width: 33.33%;
+    }
+    .colunm-services-E{
+        padding: 5px;
+        border: 2px solid;
+        width: 33.33%;
+    }
+    .colunm-services-F{
+        padding: 5px;
+        border: 2px solid;
+        width: 33.33%;
+
+    }
+    .project{
+        width: 1200px;
+    }
+    .footer{
+        text-align: center;
+        border: solid 3px blue;
+    }
+    .portfolio-content{
+        display: flex;
+        justify-content: space-evenly;
+    }
+     .portfolio-content1{
+        height: 20px;
+     }   
+    
+    
+    
+    
+
